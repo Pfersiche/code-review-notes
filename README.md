@@ -1,6 +1,7 @@
 # code-review-notes
 
-#my initial suggestions would be things like are you calling all your functions, have you checked for typos and accidental capitals, are all brackets, curly #braces and square braces closed?
+#my initial suggestions would be things like are you calling all your functions, have you checked for typos and accidental capitals?
+#are all brackets, curly #braces and square braces closed?
 #Are your html and javascript files linked?
 #Are your image assets linked in properly?
 #Double check IDs, classNames and, functions all match where they need to!
